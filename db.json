@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Men's T-Shirt",
+      "cat": "Male",
+      "price": 599,
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=700"
+    },
+    {
+      "id": 2,
+      "name": "Elegant Women's Dress",
+      "cat": "Female",
+      "price": 999,
+      "img": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=700"
+    },
+    {
+      "id": 3,
+      "name": "Kids Casual Wear",
+      "cat": "Children",
+      "price": 499,
+      "img": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=700"
+    },
+    {
+      "id": 4,
+      "name": "Remote Control Toy Car",
+      "cat": "Toys",
+      "price": 799,
+      "img": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?w=700"
+    },
+    {
+      "id": 5,
+      "name": "Wireless Earbuds",
+      "cat": "Electronics",
+      "price": 1299,
+      "img": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=700"
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "cat": "Electronics",
+      "price": 1799,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700"
+    }
+  ],
+  "orders": [
+    {
+      "id": "SB1790544130606",
+      "date": "2026-09-27T21:22:10.606Z",
+      "customer": {
+        "name": "Test",
+        "mobile": "9999999999",
+        "address": "Patna"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Test",
+          "price": 100,
+          "qty": 1
+        }
+      ],
+      "total": 100,
+      "utr": "TEST123",
+      "status": "Pending Verification"
+    }
+  ],
+  "users": [
+    {
+      "id": "e6b306fda710b7680a20bb1301bd0ea5",
+      "name": "Test User",
+      "email": "test-1790556721@example.com",
+      "passwordHash": "fcf730b6d95236ecd3c9fc2d92d7b6b2bb061514961aec041d6c7a7192f592e4",
+      "mobile": "",
+      "address": "",
+      "createdAt": "2026-09-28T00:52:01.713Z"
+    },
+    {
+      "id": "dd27e1e6f20ab281b5613c0735360222",
+      "name": "Test User",
+      "email": "test1790556926@example.com",
+      "passwordHash": "8776f108e247ab1e2b323042c049c266407c81fbad41bde1e8dfc1bb66fd267e",
+      "mobile": "",
+      "address": "",
+      "createdAt": "2026-09-28T00:55:26.712Z"
+    },
+    {
+      "id": "d42c2d417fd3dac15d18e8e2c4a1d275",
+      "name": "Test User",
+      "email": "testfinal@example.com",
+      "passwordHash": "fcf730b6d95236ecd3c9fc2d92d7b6b2bb061514961aec041d6c7a7192f592e4",
+      "mobile": "",
+      "address": "",
+      "createdAt": "2026-09-28T00:57:53.359Z"
+    }
+  ]
+}
