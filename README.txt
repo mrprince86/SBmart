@@ -1,1 +1,0 @@
-SBmart fixed build. Admin login: adminsunny73@gmail.com / Sunny@73. Create Account does not ask for delivery address; delivery address is collected at checkout. Guest Add to Cart redirects to Create Account. Customer Service and Order History are separate pages.
